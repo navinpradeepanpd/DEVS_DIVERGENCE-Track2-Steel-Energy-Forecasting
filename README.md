@@ -20,6 +20,8 @@ Our final architecture is a Stacking Ensemble (75% Gradient Boosting / 25% Rando
 
 ***Repository / Folder Contents:***
 
+Note: The elite_ensemble_system.pkl model file (66 MB) exceeds GitHub's web upload limit and is provided via the official Google Drive submission link.
+
 DEVS\_Track2\_Steel\_Energy\_Model.ipynb: The master Jupyter Notebook containing EDA, feature engineering, training pipelines, and the final inference function.
 
 
